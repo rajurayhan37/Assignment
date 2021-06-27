@@ -1,0 +1,13 @@
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\bin\Debug\netcoreapp3.1\Assignemnt.exe
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\bin\Debug\netcoreapp3.1\Assignemnt.deps.json
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\bin\Debug\netcoreapp3.1\Assignemnt.runtimeconfig.json
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\bin\Debug\netcoreapp3.1\Assignemnt.runtimeconfig.dev.json
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\bin\Debug\netcoreapp3.1\Assignemnt.dll
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\bin\Debug\netcoreapp3.1\Assignemnt.pdb
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.csproj.AssemblyReference.cache
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.AssemblyInfoInputs.cache
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.AssemblyInfo.cs
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.dll
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.pdb
+C:\Users\rajur\source\repos\Assignemnt\Assignemnt\obj\Debug\netcoreapp3.1\Assignemnt.genruntimeconfig.cache
